@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\bin\Release\Kursovayaa.exe.config
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\bin\Release\Kursovayaa.exe
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\bin\Release\Kursovayaa.pdb
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.Autor.resources
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.Info.resources
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.Main.resources
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.Properties.Resources.resources
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.Result.resources
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.exe
+C:\Users\User\Desktop\Portfolio\Kursovaya\Kursovayaa1\Kursovayaa\obj\Release\Kursovayaa.pdb
